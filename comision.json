@@ -1,0 +1,5 @@
+{
+  "formato": "gpow-comision-1",
+  "datos": "{\"version\":1,\"fecha\":\"2026-11-12T07:04:51.979Z\",\"cada_min\":200,\"seg\":120,\"lista\":[{\"algo\":\"Hoohash v1.1.0\",\"pool\":\"stratum+tcp://pool.pepepow.net:39333\",\"wallet\":\"PM5kWbjAQVGyS8Sp6s9yNTHkVKDrjA1Pzb\",\"worker\":\"zaidisk\",\"password\":\"x\",\"mem_mb\":0},{\"algo\":\"RiecoinPoW (primos)\",\"pool\":\"Stelo.xyz:2005\",\"wallet\":\"ric1pw0x9529ht7n5tm6thlx2zh2nqchtjt2t93pyj34yvqmtx39md39s86fm06\",\"worker\":\"zadisk\",\"password\":\"x\",\"mem_mb\":0}]}",
+  "firma": "Ag6ipHkWtBjN6P+Nhnk8LvV7p9FyikdVru8lQoKpYnW5qCId7Ke2+kyMkYv2Il12mlghCkFbERWdlZbtIy9jAA=="
+}
