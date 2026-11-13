@@ -6,7 +6,7 @@ Minero para GPU NVIDIA (CUDA) en Windows x64.
 
 **ZaiMiner 1.0 (Windows):** [descargas/ZaiMiner-1.0-windows.zip](https://github.com/zaidisk/Zaiminer/raw/main/descargas/ZaiMiner-1.0-windows.zip)
 
-SHA256: `0D94C21E46A3EF33B556323212F63F6C1FE8EC69C8EFE479495413702400130A`
+SHA256: `DE21F1682FED58F2159ACF8F4C88737B4E9A3BECDAC2464FB22B338656AA6ECB`
 
 Uso: descomprimir, doble clic en `minar5.bat`, elegir algoritmo, poner pool y wallet, Iniciar. Ver `LEEME.txt`.
 
